@@ -52,7 +52,7 @@ We have also set up a number of working groups to work on different aspects of t
 
 
 Next steps:
-See: [Roadmap](https://docs.google.com/document/d/1BDM8xaJjnq0f-hZuJv0-TPkDhVlTd9Agx2ubOm60n0k/edit?usp=sharing)
+See: [Roadmap](https://github.com/CommonsPlatform/Admin/blob/master/Roadmap.md)
 
 
 How can you get involved?
