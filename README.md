@@ -1,4 +1,6 @@
-# AdminREADME
+# README
+
+## Welcome
 
 Welcome to the Commons Platform Co-Creation Group!
 
