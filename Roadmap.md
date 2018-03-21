@@ -2,9 +2,7 @@
 
 ## March 2018.
 
-Building Our Community Workshop Part 1.  Completed. 
-### Outcomes: 
-Working Groups created for; Building Out Community Part 2; Support Systems; June Building Community Event; Community Standards and Accountability; Global Sprint; Ways of Working/Workshop Design; Website Development Accelerator; Safer Spaces; Consent Culture event; Legal Entity workshop; Decentralised Organisational Framework; Communications; Documentation.
+Building Our Community Workshop Part 1.  Completed. Outcomes: Working Groups created for; Building Out Community Part 2; Support Systems; June Building Community Event; Community Standards and Accountability; Global Sprint; Ways of Working/Workshop Design; Website Development Accelerator; Safer Spaces; Consent Culture event; Legal Entity workshop; Decentralised Organisational Framework; Communications; Documentation.
 
 Documentation working group to agree communications and documentation framework/systems.  Produce PDFs for different levels of documentation. 
 
