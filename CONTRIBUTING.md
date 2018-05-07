@@ -4,4 +4,4 @@ Come and build a new social media platform for community and collaboration, base
 
 There are lots of ways you can get involved
 
-First please familiarise yourself with the Community Guidelines
+First please familiarise yourself with the [Community Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
