@@ -68,3 +68,7 @@ What do we need?
 People! We love people who are interested in our common goals, who want to work together collaboratively for a world that works better for everyone.
 All skills are valuable from software development to community building, economics to emotional support, copywriting to cryptocurrencies. Just let us know and we can put you in touch with other people who you can collaborate with.
 If you have spaces we can use, or web hosting, or any other things we might need please do let us know. 
+
+# Global Sprint!
+For the global sprint we will be identifying our MIO. What's that? A Minimum Inclusive Offering, rather than a Minimum Viable Product. 
+Over the 2 days we will be holding workshops
