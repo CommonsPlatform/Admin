@@ -7,4 +7,4 @@ You can find out more about us by clicking on the [README.md] file (if you're li
 
 If you want to contribute, you can click on the [CONTRIBUTING.md](https://github.com/CommonsPlatform/Admin/blob/master/CONTRIBUTING.md) file to find out how to get involved
 
-And here is a lovely drawing which tells you a bit more about us:
+And here is a lovely [drawing](https://github.com/CommonsPlatform/Admin/blob/master/Commons-Platform.jpg) done by one of our members which tells you a bit more about us.
