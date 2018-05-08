@@ -71,4 +71,6 @@ If you have spaces we can use, or web hosting, or any other things we might need
 
 # Global Sprint!
 For the global sprint we will be identifying our MIO. What's that? A Minimum Inclusive Offering, rather than a Minimum Viable Product. 
-Over the 2 days we will be holding workshops
+We will be running workshops during the Sprint at the Redmond Community Centre The first day will be Discovery: shared values and community agreements, and identifying needs of individuals and communities The second day will be Design and Develop: Identifying the collective journey, what kind of platform meets the varied needs, what features it should have, how to make it accessible to a diverse community, and finally fun with prototyping.
+
+If you would like to join these workshops remotely, we aim to post video conferencing links on the event page Please bear with us on this as it may not be possible but we will do our best!
